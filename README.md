@@ -1,8 +1,8 @@
 ## Hi there 👋, I am Alexandre
 
-**Delpipi/Delpipi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Delpipi/Delpipi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get I started:
 
 - 🔭 I’m currently working on **MyLand , digital land management solution**
 - 🌱 I’m currently learning **to apply industry standards in Software Development at BYU-Pathway WorldWide**
